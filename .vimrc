@@ -1,4 +1,3 @@
-" Prueba
 " Plugins
 " El gestor de plugins instalado es vim-plug https://github.com/junegunn/vim-plug
 call plug#begin()
