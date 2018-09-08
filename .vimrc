@@ -10,6 +10,7 @@ Plug 'Shougo/neco-syntax'
 Plug 'mattn/emmet-vim'
 Plug 'vim-syntastic/syntastic'
 Plug 'pangloss/vim-javascript'
+Plug 'tpope/vim-surround'
 call plug#end()
 " Fin plugins
 
